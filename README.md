@@ -20,6 +20,6 @@ You can check out a live demo of the quiz app(http://127.0.0.1:3000/index.html).
 ## Installation
 
 -Clone the repository to your local machine:
-git clone https://github.com/your-username/quiz-app.git
+https://github.com/Bumbakkomal/Quizz/blob/main/README.md
 
 
