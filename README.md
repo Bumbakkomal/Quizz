@@ -16,7 +16,6 @@ This quiz app is designed to provide users with an interactive quiz experience. 
 
 You can check out a live demo of the quiz app(http://127.0.0.1:3000/index.html).
 
-![Quiz App Demo](#insert-image-or-gif-link)
 
 ## Installation
 
