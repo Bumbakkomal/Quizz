@@ -22,4 +22,10 @@ You can check out a live demo of the quiz app(http://127.0.0.1:3000/index.html).
 -Clone the repository to your local machine:
 https://github.com/Bumbakkomal/Quizz/blob/main/README.md
 
+**Features**
+
+* Dynamic Questions: Randomized multiple-choice questions for a varied and challenging experience.
+* Real-time Feedback: Receive instant feedback on your answers and track your score as you progress.
+* User-Friendly Interface: Intuitive design for a seamless and enjoyable quiz-taking experience.
+* Optional Timer: Add excitement with an optional timer for a more challenging quiz.
 
