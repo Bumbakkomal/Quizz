@@ -14,11 +14,17 @@ This quiz app is designed to provide users with an interactive quiz experience. 
 
 ## Demo
 
-You can check out a live demo of the quiz app [here](#insert-link-to-demo).
+You can check out a live demo of the quiz app [here](http://127.0.0.1:3000/index.html).
 
 ![Quiz App Demo](#insert-image-or-gif-link)
 
 ## Installation
 
-1. Clone the repository to your local machine:
+-Clone the repository to your local machine:
 git clone https://github.com/your-username/quiz-app.git
+
+##Usage
+Start the quiz by clicking the "Start Quiz" button.
+Answer each question by selecting the correct option.
+Receive instant feedback on your answers.
+See your final score at the end of the quiz.
